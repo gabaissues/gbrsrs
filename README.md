@@ -1,16 +1,17 @@
-### Hi there 👋
+Olá, me chamo Gabriel.
 
-<!--
-**gbkkk/gbkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑 Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Estou a mais de três anos atuando como desenvolvedor.
+- 💻 Sempre disposto a procurar coisas novas.
+- 🌱 Aprendendo mais sobre Sockets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀  Minhas Skills
+
+Node.JS, ReactJS, React, Electron, Express, Discord.js, Html, CSS
+
+### 🌎  Onde me encontrar
+
+Discord: gb.#0001
+Email: ogabrielskj@gmail.com
+Twitter: @gbKKKKKJ
