@@ -13,6 +13,6 @@ Node.JS, ReactJS, React, Electron, Express, Discord.js, Html, CSS
 ### 🌎  Onde me encontrar
 
 - 🎮 Discord: gb.#0001
-- 📎 Site: https://'gbrsrs.xyz
-- ✉️ Email: ogabrielskj@gmail.com
+- 📎 Site: gbrsrs.xyz
+- ✉️ Email: me@gbrsrs.xyz
 - 🐤 Twitter: @gbKKKKKJ
